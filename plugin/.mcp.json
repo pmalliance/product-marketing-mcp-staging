@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Product Marketing Alliance MCP": {
+      "type": "http",
+      "url": "https://mcp-staging.allianceteam.io/mcp"
+    }
+  }
+}
