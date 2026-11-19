@@ -20,7 +20,7 @@ claude.ai** (not the Claude Code CLI).
 3. Click **Add from a repository**.
 4. Paste this repo's URL:
    ```
-   https://github.com/pmalliance/product-marketing-mcp.git
+   https://github.com/pmalliance/product-marketing-mcp-staging.git
    ```
 5. Turn on **Sync automatically** so updates land without a manual reinstall, then
    click **Sync**.
